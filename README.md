@@ -14,7 +14,7 @@ Give them a few 'Bitcoin Accepted Here' stickers and tell them about the merchan
 
 Add them to the BTCMap and ask Simon or James to add them to the 'Where To Spend' map at BitcoinEvents.UK.
 
-See The Ultimate Option 1 setup for some additional steps.
+See [The Ultimate Option 1 setup](https://github.com/Hodl-Solo/Bridge2Bitcoin-Volunteers/blob/main/Option1Ultimatesetup.md) for some additional steps.
 
 ### Option 2 - LNbits/LNPoS
 
