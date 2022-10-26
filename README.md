@@ -16,7 +16,7 @@ Add them to the BTCMap and ask Simon or James to add them to the 'Where To Spend
 
 See [The Ultimate Option 1 setup](https://github.com/Hodl-Solo/Bridge2Bitcoin-Volunteers/blob/main/Option1Ultimatesetup.md) for some additional steps.
 
-### Option 2 - LNbits/LNPoS
+### Option 2 - [LNbits](https://lnbits.com/)/[LNPoS](https://github.com/lnbits/LNPoS)
 
 Suitable for
 
