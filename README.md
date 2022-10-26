@@ -2,7 +2,7 @@
 
 ## Merchant Options 
 
-### Option 1 - Wallet of Satoshi or Muun Wallet
+### Option 1 - [Wallet of Satoshi](https://www.walletofsatoshi.com/) or [Muun Wallet](https://muun.com/)
 
 Suitable for:
 
