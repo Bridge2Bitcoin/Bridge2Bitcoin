@@ -12,6 +12,10 @@ Get them to download the wallet app by visiting their app store, or by using the
 
 Give them a few 'Bitcoin Accepted Here' stickers and tell them about the merchant benefits listed below in the final section.
 
+Add them to the BTCMap and ask Simon or James to add them to the 'Where To Spend' map at BitcoinEvents.UK.
+
+See The Ultimate Option 1 setup for some additional steps.
+
 ### Option 2 - LNbits/LNPoS
 
 Suitable for
