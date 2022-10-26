@@ -38,7 +38,7 @@ Despite the moderate complexity in setup, it does offer some advantages to the m
 If a merchant goes with this option they will need assistance setting up from Simon.
 
 
-### Option 3 - CoinCorner
+### Option 3 - [CoinCorner](https://www.coincorner.com/)
 
 **Any business from 1 to 1000 employees.
 
