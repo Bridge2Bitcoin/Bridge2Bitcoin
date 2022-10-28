@@ -57,7 +57,7 @@ Despite the moderate complexity in setup, it does offer some advantages to the m
 
 - Technically more difficult to setup
 
-If a merchant goes with this option they will need assistance setting up from Simon to access our LNbits instance.
+If a merchant goes with this option they will need assistance setting up from [HodlSolo](https://github.com/Hodl-Solo) to access our LNbits instance.
 
 ---
 
