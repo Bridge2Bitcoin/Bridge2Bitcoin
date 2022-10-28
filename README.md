@@ -1,5 +1,7 @@
 # Bridge 2 Bitcoin - Volunteer Guide. 
 
+#### Below is a list of options and ideas for onboarding merchants.
+
 ## Merchant Options 
 
 ### Option 1 - [Wallet of Satoshi](https://www.walletofsatoshi.com/) or [Muun Wallet](https://muun.com/)
@@ -16,6 +18,17 @@ Add them to the BTCMap and ask Simon or James to add them to the 'Where To Spend
 
 See [The Ultimate Option 1 setup](https://github.com/Hodl-Solo/Bridge2Bitcoin-Volunteers/blob/main/Option1Ultimatesetup.md) for some additional steps.
 
+#### Advantages
+
+- Quick to get setup and very easy to use.
+- Handles onchain and lightning balance as one which keeps things simple.
+- Provides a reusable LNURL address that can be printed out and used. Good option for some merchants e.g one-man food truck.
+
+#### Disadvantages
+
+- Custodial.
+- No PoS mode yet (it is being worked on though).
+
 ### Option 2 - [LNbits](https://lnbits.com/)/[LNPoS](https://github.com/lnbits/LNPoS)
 
 Suitable for
@@ -26,16 +39,21 @@ This option is so far the least popular as option 1 or 3 seems to cover most bus
 
 Despite the moderate complexity in setup, it does offer some advantages to the merchants and is easy to manage once set up.
 
-1. An optional hardware PoS (LNPoS) that only costs approx £40.
-2. Onchain payments will go directly into a wallet the merchant controls.
-3. The LNPoS needs no internet connection, it relies on the customer's phone connection to send the transaction.
-4. The LNPoS has an ATM function that allows the merchant to sell Bitcoin for fiat.
-5. TPoS is an LNbits extension that allows a 'receive only' Point of sale to be quickly accessed by any member of staff via a QR code on their own phone.
-6. Lower fees when using lightning than option 3.
-7. No fee when receiving payment onchain.
-8. Non-custodial
+#### Advantages
 
-If a merchant goes with this option they will need assistance setting up from Simon.
+- An optional hardware PoS (LNPoS) that only costs approx £40.
+- Onchain payments will go directly into a wallet the merchant controls.
+- The LNPoS needs no internet connection, it relies on the customer's phone connection to send the transaction.
+- The LNPoS has an ATM function that allows the merchant to sell Bitcoin for fiat.
+- TPoS is an LNbits extension that allows a 'receive only' Point of sale to be quickly accessed by any member of staff via a QR code on their own phone.
+- Lower fees when using lightning than option 3.
+- Non-custodial/self sovereign option
+
+#### Disadvantages
+
+- Technically more difficult to setup
+
+If a merchant goes with this option they will need assistance setting up from Simon to access our LNbits instance.
 
 
 ### Option 3 - [CoinCorner](https://www.coincorner.com/)
