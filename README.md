@@ -4,6 +4,8 @@
 
 ## Merchant Options 
 
+---
+
 ### Option 1 - [Wallet of Satoshi](https://www.walletofsatoshi.com/) or [Muun Wallet](https://muun.com/)
 
 Suitable for:
@@ -33,9 +35,9 @@ See [The Ultimate Option 1 setup](https://github.com/Hodl-Solo/Bridge2Bitcoin-Vo
 
 ### Option 2 - [LNbits](https://lnbits.com/)/[LNPoS](https://github.com/lnbits/LNPoS)
 
-Suitable for
+Suitable for:
 
-**Small businesses with 2+ employees that would like a dedicated device-based Point of Sale (LNPoS) and as with option 1 are happy to convert to fiat themselves or better still hold the Bitcoin.
+**Small businesses with 2+ employees that would like a dedicated device-based Point of Sale (LNPoS) and as with option 1 are happy to convert to fiat themselves or better still hold the Bitcoin.**
 
 This option is so far the least popular as option 1 or 3 seems to cover most businesses. It can also sound the most complicated to a small business and involves the most amount of setup and admin on our side.
 
@@ -61,7 +63,9 @@ If a merchant goes with this option they will need assistance setting up from Si
 
 ### Option 3 - [CoinCorner](https://www.coincorner.com/)
 
-**Any business from 1 to 1000 employees.
+Suitable for:
+
+**Any business from 1 to 1000 employees.**
 
 The most popular choice and one that allows the use of BoltCards.
 
