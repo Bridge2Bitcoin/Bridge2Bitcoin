@@ -27,7 +27,7 @@ See [The Ultimate Option 1 setup](https://github.com/Hodl-Solo/Bridge2Bitcoin-Vo
 #### Disadvantages
 
 - Custodial.
-- No PoS mode yet (it is being worked on though).
+- No PoS mode yet (it is being worked on though for Wallet of Satoshi).
 
 ### Option 2 - [LNbits](https://lnbits.com/)/[LNPoS](https://github.com/lnbits/LNPoS)
 
