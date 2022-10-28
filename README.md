@@ -87,5 +87,6 @@ The most popular choice and one that allows the use of BoltCards.
 - Accepting bitcoin for payments opens up a whole new customer base for each business that joins the network. Bitcoiners that otherwise wouldn’t have known about them will visit and pay with bitcoin.
 - Bitcoiners love supporting local businesses that are joining the bitcoin network.
 - The business will be added to the merchant map at [BitcoinEvents.UK](https://bitcoinevents.uk/spending/) and added to the [BTCMap.org](https://btcmap.org/) project providing great visibility to the bitcoin community.
-- If they are the first Bitcoin business in their area or first pub, hairdresser or butcher, for example, the local newspapers may run a story on them, creating more buzz for their business.
+- If they are the first Bitcoin business in their area or first pub, hairdresser or butcher, for example, the local newspapers may run a story on them, creating more buzz for their business. This is our job to generate as much buzz as possible for them.
+- The local Bitcoin meetup group will be interested in doing business with them and, in the case of a pub or cafe, hold their meetup there.
 - All the benefits of using permissionless, uncensorable money that central banks and self-interested governments can't inflate away.
