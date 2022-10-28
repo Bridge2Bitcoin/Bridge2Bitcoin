@@ -29,6 +29,8 @@ See [The Ultimate Option 1 setup](https://github.com/Hodl-Solo/Bridge2Bitcoin-Vo
 - Custodial.
 - No PoS mode yet (it is being worked on though for Wallet of Satoshi).
 
+---
+
 ### Option 2 - [LNbits](https://lnbits.com/)/[LNPoS](https://github.com/lnbits/LNPoS)
 
 Suitable for
@@ -55,6 +57,7 @@ Despite the moderate complexity in setup, it does offer some advantages to the m
 
 If a merchant goes with this option they will need assistance setting up from Simon to access our LNbits instance.
 
+---
 
 ### Option 3 - [CoinCorner](https://www.coincorner.com/)
 
@@ -73,6 +76,7 @@ The most popular choice and one that allows the use of BoltCards.
 - 1% fee on transactions
 - Signing up for the CoinCorner merchant account can be a trial for some merchants especially those with partners and/or limited companies.
 
+---
 
 ## Merchant Benefits
 
