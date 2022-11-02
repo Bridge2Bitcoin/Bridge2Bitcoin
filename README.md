@@ -16,7 +16,7 @@ Every country around the world has different Bitcoin services available to them.
 
 # How does the Bridge 2 Bitcoin Wiki work?
 
-If you'd like to contribute, clone the repository make your changes and register a pull request. (Not sure if this is worded right)
+If you'd like to contribute, join the [Discord chat](https://discord.gg/xUUHvZnDkc) and find out how.
 
 # Who uses the Bridge 2 Bitcoin Wiki?
 
