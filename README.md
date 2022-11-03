@@ -1,4 +1,4 @@
-If you've been here before jump straight to the Wiki. Otherwise continue reading below. 
+If you've been here before jump straight to the [Wiki](https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/wiki). Otherwise continue reading below. 
 
 -   What is the Bridge 2 Bitcoin Wiki?
 -   How does the Bridge 2 Bitcoin Wiki work?
@@ -31,4 +31,4 @@ Similarly those with little experience but a willingness to give it a go can lea
 Nothing short of hyperbitcoinization. 
 
 
-Jump to the wiki and start your merchant orange pilling journey. 
+[Jump to the wiki](https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/wiki) and start your merchant orange pilling journey. 
