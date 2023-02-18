@@ -14,7 +14,11 @@ Information for businesses willing to accept Bitcoin as payment.
 
 - CoinCorner
 - LNbits
+- Ibex
 - Swiss Bitcoin Pay
 - BTCPay Server
 
-Bitcoin Sticker Suppliers
+### Comparison Table
+
+### 
+Resouces - Bitcoin Stickers, signs etc.
