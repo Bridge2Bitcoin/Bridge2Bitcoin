@@ -9,6 +9,7 @@ Information for businesses willing to accept Bitcoin as payment.
 - Wallet of Satoshi
 - Breez
 - Muun
+- VoltPay
 
 ### Options for businneses with multiple staff
 
