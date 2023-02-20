@@ -22,7 +22,7 @@ Information for businesses willing to accept Bitcoin as payment.
 
 ### Bitcoin Invoicing Solutions
 
-- Zaprite
+- [Zaprite](Zaprite.md)
 - BTCPay Server
 
 ### Comparison Table
