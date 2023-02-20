@@ -24,6 +24,7 @@ Information for businesses willing to accept Bitcoin as payment.
 
 - [Zaprite](Zaprite.md)
 - BTCPay Server
+- [LNCal.com](https://lncal.com)
 
 ### Comparison Table
 
