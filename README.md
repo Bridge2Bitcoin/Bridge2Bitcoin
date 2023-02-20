@@ -17,7 +17,7 @@ Information for businesses willing to accept Bitcoin as payment.
 - Breez
 - LNbits
 - Ibex
-- Swiss Bitcoin Pay
+- [Swiss Bitcoin Pay](SwissBitcoinPay.md)
 - BTCPay Server
 
 ### Bitcoin Invoicing Solutions
