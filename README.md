@@ -28,4 +28,4 @@ Information for businesses willing to accept Bitcoin as payment.
 ### Comparison Table
 
 ### 
-[Resouces - Bitcoin Stickers, signs etc.](Resources.md)
+[Resouces - Bitcoin Stickers, signs etc.](resources.md)
