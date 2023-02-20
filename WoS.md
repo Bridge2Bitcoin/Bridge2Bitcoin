@@ -1,4 +1,4 @@
-[return to Main Menu](main.md)
+[return to Main Menu](readme.md)
 
 # Wallet of Satoshi
 
