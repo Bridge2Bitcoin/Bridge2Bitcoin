@@ -6,7 +6,7 @@ Information for businesses willing to accept Bitcoin as payment.
 
 ### Businesses with 1-2 employees
 
-- Wallet of Satoshi
+- [Wallet of Satoshi](https://www.walletofsatoshi.com/)
 - Breez
 - Muun
 - VoltPay
@@ -14,9 +14,15 @@ Information for businesses willing to accept Bitcoin as payment.
 ### Options for businneses with multiple staff
 
 - CoinCorner
+- Breez
 - LNbits
 - Ibex
 - Swiss Bitcoin Pay
+- BTCPay Server
+
+### Bitcoin Invoicing Solutions
+
+- Zaprite
 - BTCPay Server
 
 ### Comparison Table
