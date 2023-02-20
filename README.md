@@ -6,7 +6,7 @@ Information for businesses willing to accept Bitcoin as payment.
 
 ### Businesses with 1-2 employees
 
-- [Wallet of Satoshi](https://www.walletofsatoshi.com/)
+- [Wallet of Satoshi](WoS)
 - Breez
 - Muun
 - VoltPay
