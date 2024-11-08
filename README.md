@@ -11,9 +11,9 @@ Information for businesses looking to accept Bitcoin as payment.
 
 ### Businesses with multiple staff
 
-- CoinCorner
+- [CoinCorner](https://www.coincorner.com/merchantregister)
 - [Breez](https://breez.technology)
-- LNbits
+- [LNbits](https://lnbits.com)
 - [Ibex](https://www.ibexpay.io)
 - [Swiss Bitcoin Pay](SwissBitcoinPay.md)
 - [BTCPay Server](https://btcpayserver.org)
@@ -21,12 +21,14 @@ Information for businesses looking to accept Bitcoin as payment.
 ### Checkouts for online businesses
 
 - [BTCPay Server](https://btcpayserver.org)
+- [CoinCorner](https://www.coincorner.com/checkout)
 
 ### Bitcoin Invoicing Solutions
 
 - [Zaprite](Zaprite.md)
 - [BTCPay Server](https://btcpayserver.org)
 - [LNCal.com](https://lncal.com)
+- [LNbits Satspay](https://github.com/lnbits/satspay)
 
 ### Comparison Table
 
