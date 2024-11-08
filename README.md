@@ -18,10 +18,12 @@ Information for businesses looking to accept Bitcoin as payment.
 - [Swiss Bitcoin Pay](SwissBitcoinPay.md)
 - [BTCPay Server](https://btcpayserver.org)
 
-### Checkouts for online businesses
+### Webstore checkout plugins & integrations for online businesses
 
-- [BTCPay Server](https://btcpayserver.org)
-- [CoinCorner](https://www.coincorner.com/checkout)
+- [BTCPay Server](https://btcpayserver.org) / WooCommerce, Shopify, Magento, PrestaShop, OpenCart, Drupal, Zapier, Shopware, VirtueMart, Smartstore, Grandnode, Big Commerce, Nopcommerce, Xenforo, Invoice Ninja, Odoo & Wix
+- [CoinCorner](https://www.coincorner.com/checkout) / WooCommerce, OsCommerce Logo, OpenCart, PrestaShop, NopCommerce, Zen Cart, Magento
+- [Swiss Bitcoin Pay](SwissBitcoinPay.md) / Woocommerce, Grandnode, Smartstore, Nopcommerce
+- [Coinos.io](coinos.io) / Shopify
 
 ### Bitcoin Invoicing Solutions
 
