@@ -1,13 +1,12 @@
 [return to Main Menu](README.md)
 
 # Swiss Bitcoin Pay
-note - This is a guide written for our volunteers to use to help them when onboarding businesses. 
-
 ## V 0.3
 
 # **Merchant Setup** \- Swiss Bitcoin Pay and Wallet of Satoshi.
+This is a guide written for our volunteers to use to help them when onboarding businesses. 
 
-**Note \- They must have a phone and a laptop ready to complete these steps.**
+**Note \- The merchants must have a phone and a laptop ready to complete these steps.**
 
 ## 1\. Download Wallet of Satoshi.
 
@@ -17,13 +16,29 @@ Wallets that can be used include:
 
 * Wallet of Satoshi  
 * Blink  
-* Strike
+* Strike  
+<br>
+<div style="display: flex; gap: 10px;"> 
+<img src="https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/blob/main/WoS-logo.jpg?raw=true" alt="Wallet of Satoshi" width="70" /> 
+<img src="https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/blob/main/blink%20logo.png?raw=true" alt="Image 2" width="70" />
+ <img src="https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/blob/main/strike%20logo.png?raw=true" alt="Image 3" width="70" /> 
+</div>
+
+<br>
+
+<div style="display: flex; gap: 200px;"> 
+<img src="https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/blob/main/WoS%20app%20store%20qr.png?raw=true" width="110" /> 
+<img src="https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/blob/main/WoS%20play%20store%20qr.png?raw=true"  width="110" />
+</div>
 
 In this guide, we will use **Wallet of Satoshi** as it is the easiest to use.
 
 ### 1.1 Change to GBP in WoS.
 
 Wallet of Satoshi will display the fiat balance in USD by default. Change this to GBP via the menu in the top right corner.
+
+<img src="https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/blob/main/WoS%20-%20menu%20button.jpg?raw=true" width="60" /> 
+
 
 ### 1.2 Login/register with WoS.
 
@@ -32,9 +47,14 @@ Wallet of Satoshi will display the fiat balance in USD by default. Change this t
 * Copy and paste the two words they receive in their email to the text box in the app.  
 * The red box should now turn green and they are good to go.
 
-### 
 
-### 
+<div style="display: flex; align-items: flex-start; gap: 10px;"> 
+<img src="https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/blob/main/WoS%20register.jpg?raw=true" alt="Image 1" height="40" /> 
+<img src="https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/blob/main/WoS%20email.jpg?raw=true" alt="Image 2" height="150" />
+<img src="https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/blob/main/WoS%20tick.jpg?raw=true" alt="Image 3" height="40" /> 
+</div>
+
+
 
 ### 1.3 Warn that WoS is custodial.
 
@@ -81,6 +101,11 @@ Or send them your own if you have one.
 
 * If this is not done and two devices have the same name i.e. ‘iPhone’ it confuses SBP and payments will not go through.
 
+<div style="display: flex; gap: 30px;"> 
+<img src="https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/blob/main/device%20name.jpg?raw=true" width="300" /> 
+<img src="https://github.com/Bridge2Bitcoin/Bridge2Bitcoin/blob/main/device%20rename.jpg?raw=true"  width="300" />
+</div>
+
 ### 3.3. Get them to generate a 1p invoice in the SBP app.
 
 * Pay it for them.
@@ -95,7 +120,4 @@ Or send them your own if you have one.
 ### 3.6. Explain the invoicing features of SBP if necessary.
 
 ### 3.7. Explain API if necessary.
-
-
-
 
